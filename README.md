@@ -1,5 +1,5 @@
-[![Clippy](https://github.com/nogibjj/ust-data-engineering-ZHX/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/ust-data-engineering-ZHX/actions/workflows/lint.yml)
-[![Tests](https://github.com/nogibjj/ust-data-engineering-ZHX/actions/workflows/tests.yml/badge.svg)](https://github.com/nogibjj/ust-data-engineering-ZHX/actions/workflows/tests.yml)
+[![Clippy](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/lint.yml)
+[![Tests](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/tests.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/tests.yml)
 
 
 ### Lab:  Modifying a Rust Command-Line Tool
