@@ -1,7 +1,3 @@
-[![Clippy](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/lint.yml)
-[![Tests](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/tests.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering-ZHX/actions/workflows/tests.yml)
-
-
 ### Lab:  Modifying a Rust Command-Line Tool
 
 In this lab you will gain experience extending an existing Rust project by forking and modifying a simple command-line tool.
